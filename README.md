@@ -6,18 +6,18 @@
 
 {<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Data": {<br>
-		"desarrollador": {<br>
-			"lenguajes": "PHP/Java/Python",<br>
-			"telefono": "+593 0994203888",<br>
-			"correo": "jorgefprietol@gmail.com",<br>
-			"linkedinUrl": "https://www.linkedin.com/in/jfpl0406/"<br>
-		},<br>
-		"musica": {<br>
-			"estudiar": true,<br>
-			"trabajar": true,<br>
-			"url": "https: //open.spotify.com/playlist/5Xkw0sFd5Y89K7kfrusZsf?si=d392ce1dc02740d2"<br>
-		}<br>
-	}<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"desarrollador": {<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"lenguajes": "PHP/Java/Python",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"telefono": "+593 0994203888",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"correo": "jorgefprietol@gmail.com",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"linkedinUrl": "https://www.linkedin.com/in/jfpl0406/"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"musica": {<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"estudiar": true,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"trabajar": true,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"url": "https: //open.spotify.com/playlist/5Xkw0sFd5Y89K7kfrusZsf?si=d392ce1dc02740d2"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>
 }<br>
 
 <!---
