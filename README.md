@@ -5,7 +5,7 @@
 - 📫 How to reach me +593 0994203888 / jorgefprietol@gmail.com
 
 {<br>
-	"Data": {<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Data": {<br>
 		"desarrollador": {<br>
 			"lenguajes": "PHP/Java/Python",<br>
 			"telefono": "+593 0994203888",<br>
