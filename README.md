@@ -1,4 +1,4 @@
-<div style="color: #000000;">
+<div class="footer">
 - 👋 Hi, I’m @jorgefprietol
 - 👀 I’m interested in PHP/Java/Python
 - 🌱 I’m currently learning Spring Big Data Analytic
