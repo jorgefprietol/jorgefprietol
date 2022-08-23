@@ -1,4 +1,4 @@
-<div style="background-color:black; color: white;">
+<div style="background-color:#ffffff; color: #000000;">
 - 👋 Hi, I’m @jorgefprietol
 - 👀 I’m interested in PHP/Java/Python
 - 🌱 I’m currently learning Spring Big Data Analytic
