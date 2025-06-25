@@ -1,4 +1,3 @@
-<div class="footer">
 # 👋 Hola, soy Jorge Fidel Prieto Linares
 
 🚀 **Ingeniero de Software con +20 años de experiencia** en desarrollo backend y frontend, especializado en arquitecturas modernas usando **Java, PHP, C#, Python** y tecnologías de **Big Data Analytics**.  
@@ -24,7 +23,3 @@
     "linkedinUrl": "https://www.linkedin.com/in/jorgefprietol/"
   }
 }
-
-</div>
-
-
