@@ -1,25 +1,30 @@
 <div class="footer">
-- 👋 Hi, I’m @jorgefprietol
-- 👀 I’m interested in PHP/Java/Python/C#
-- 🌱 I’m currently improving Spring and Big Data Analytic
-- 💞️ I’m looking to collaborate on projects as Fullstack PHP/Java / Python / C# / big data
-- 📫 How to reach me :
+# 👋 Hola, soy Jorge Fidel Prieto Linares
 
-{<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Data": {<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"desarrollador": {<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"lenguajes": "PHP/Java/Python/C#",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"telefono": "+593 0994203888",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"correo": "jorgefprietol@gmail.com",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"linkedinUrl": "https://www.linkedin.com/in/jorgefprietol/"<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>
-}<br>
+🚀 **Ingeniero de Software con +20 años de experiencia** en desarrollo backend y frontend, especializado en arquitecturas modernas usando **Java, PHP, C#, Python** y tecnologías de **Big Data Analytics**.  
 
-<!---
-jorgefprietol/jorgefprietol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 Apasionado por diseñar soluciones robustas y escalables para sectores exigentes como **banca, telecomunicaciones y gobierno**. Actualmente perfecciono mis habilidades en **Spring Boot, .NET 8 y ecosistemas de datos distribuidos (Apache Spark, Kafka, Airflow)**.
+
+🎯 **Mi stack de especialidad**:
+- **Backend**: Java (Spring Boot), C# (.NET), PHP (Laravel), Python (FastAPI, Flask)
+- **Frontend**: Angular, React, TypeScript, HTML5/CSS3
+- **Datos**: SQL Server, PostgreSQL, MongoDB, Hive, Delta Lake
+- **Big Data**: Apache Spark, Airflow, Cloudera, PySpark
+- **DevOps**: Docker, Jenkins, GitHub Actions, Instana
+
+🔍 Actualmente busco colaborar en proyectos de impacto como **desarrollador senior, arquitecto de software o consultor en analítica de datos**.
+
+📫 Puedes contactarme:
+```json
+{
+  "desarrollador": {
+    "lenguajes": "PHP / Java / Python / C#",
+    "telefono": "+593 0994203888",
+    "correo": "jorgefprietol@gmail.com",
+    "linkedinUrl": "https://www.linkedin.com/in/jorgefprietol/"
+  }
+}
+
 </div>
 
 
