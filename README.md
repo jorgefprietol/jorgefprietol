@@ -2,7 +2,7 @@
 
 🚀 **Ingeniero de Software con +20 años de experiencia** en desarrollo backend y frontend, especializado en arquitecturas modernas usando **Java, PHP, C#, Python** y tecnologías de **Big Data Analytics**.  
 
-💡 Apasionado por diseñar soluciones robustas y escalables para sectores exigentes como **banca, telecomunicaciones y gobierno**. Actualmente perfecciono mis habilidades en **Spring Boot, .NET 8 y ecosistemas de datos distribuidos (Apache Spark, Kafka, Airflow)**.
+💡 Apasionado por diseñar soluciones robustas y escalables para sectores exigentes como **banca, telecomunicaciones y gobierno**. Actualmente perfecciono mis habilidades en ecosistemas de datos distribuidos (Apache Spark, Kafka, Airflow)**.
 
 🎯 **Mi stack de especialidad**:
 - **Backend**: Java (Spring Boot), C# (.NET), PHP (Laravel), Python (FastAPI, Flask)
