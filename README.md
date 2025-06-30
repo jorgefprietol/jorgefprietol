@@ -13,6 +13,9 @@
 
 🔍 Actualmente busco colaborar en proyectos de impacto como **desarrollador senior, arquitecto de software o consultor en analítica de datos**.
 
+Certificados:
+https://www.credly.com/users/jorge-prieto.24ba3e35/badges#credly
+
 📫 Puedes contactarme:
 ```json
 {
