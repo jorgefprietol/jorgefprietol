@@ -1,4 +1,4 @@
-# 👋 Hola, soy Jorge Fidel Prieto Linares
+# 👋 Hola, soy Jorge Prieto
 
 🚀 **Ingeniero de Software con +20 años de experiencia** en desarrollo backend y frontend, especializado en arquitecturas modernas usando **Java, PHP, C#, Python** y tecnologías de **Big Data Analytics**.  
 
