@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Jorge Prieto · ArepaDev</title>
+  <desc id="desc">Ingeniero de software y arquitecto de soluciones. Software, automatización, datos e inteligencia artificial.</desc>
+  <rect width="1200" height="320" rx="24" fill="#101329"/>
+  <path d="M820 0V320M940 0V320M1060 0V320M760 80H1200M760 160H1200M760 240H1200" stroke="#252941"/>
+  <path d="M868 256L971 48L1074 256" stroke="#6544D8" stroke-width="48" stroke-linecap="round" stroke-linejoin="round" opacity=".35"/>
+  <path d="M905 185H1026" stroke="#45D9E8" stroke-width="15" stroke-linecap="round" opacity=".6"/>
+  <circle cx="1074" cy="256" r="22" fill="#45D9E8"/>
+  <text x="56" y="63" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="3" fill="#B5A0FF">INGENIERÍA CON VISIÓN DE NEGOCIO</text>
+  <text x="52" y="140" font-family="Arial,sans-serif" font-size="64" font-weight="700" letter-spacing="-2" fill="#FFFFFF">Jorge Prieto</text>
+  <text x="56" y="182" font-family="Arial,sans-serif" font-size="23" fill="#DED8EF">Ingeniero de Software · Arquitecto de Soluciones</text>
+  <text x="56" y="222" font-family="Arial,sans-serif" font-size="18" fill="#CEC3EE">Software · Automatización · Datos · IA aplicada</text>
+  <path d="M58 280L68.5 257Q71 252 73.5 257L84 280" stroke="#B5A0FF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M64 271H78" stroke="#45D9E8" stroke-width="3" stroke-linecap="round"/><circle cx="84" cy="280" r="3.5" fill="#45D9E8"/>
+  <text x="100" y="281" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#FFFFFF">Arepa<tspan fill="#B5A0FF">Dev</tspan></text>
+  <text x="244" y="280" font-family="Arial,sans-serif" font-size="16" fill="#CEC3EE">arepadev.com</text>
+</svg>
