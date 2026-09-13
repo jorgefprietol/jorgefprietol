@@ -1,28 +1,77 @@
-# 👋 Hola, soy Jorge Prieto
+<p align="center">
+  <img src="assets/jorge-prieto-arepadev.svg" alt="Jorge Prieto · Software, arquitectura y automatización · ArepaDev" width="100%" />
+</p>
 
-🚀 **Ingeniero de Software con +20 años de experiencia** en desarrollo backend y frontend, especializado en arquitecturas modernas usando **Java, PHP, C#, Python** y tecnologías de **Big Data Analytics**.  
+# Hola, soy Jorge Prieto
 
-💡 Apasionado por diseñar soluciones robustas y escalables para sectores exigentes como **banca, telecomunicaciones y gobierno**. Actualmente perfecciono mis habilidades en ecosistemas de datos distribuidos (Apache Spark, Kafka, Airflow)**.
+**Ingeniero de Software · Arquitecto de Soluciones · Consultor Tecnológico**  
+Quito, Ecuador · Colaboración remota
 
-🎯 **Mi stack de especialidad**:
-- **Backend**: Java (Spring Boot), C# (.NET), PHP (Laravel), Python (FastAPI, Flask)
-- **Frontend**: Angular, React, TypeScript, HTML5/CSS3
-- **Datos**: SQL Server, PostgreSQL, MongoDB, Hive, Delta Lake
-- **Big Data**: Apache Spark, Airflow, Cloudera, PySpark
-- **DevOps**: Docker, Jenkins, GitHub Actions, Instana
+Tengo **más de 20 años de experiencia en desarrollo de software**. Trabajo con backend, frontend y arquitectura de soluciones, con un interés especial en integrar sistemas, automatizar procesos y convertir datos en información útil para el negocio.
 
-🔍 Actualmente busco colaborar en proyectos de impacto como **desarrollador senior, arquitecto de software o consultor en analítica de datos**.
+A través de **[ArepaDev](https://www.arepadev.com/)**, ofrezco desarrollo web, software a medida, automatización e inteligencia artificial aplicada. Mi punto de partida es entender el problema, definir un alcance concreto y construir una solución que se pueda mantener y evolucionar.
 
-Certificados:
-https://www.credly.com/users/jorge-prieto.24ba3e35/badges#credly
+**[Conoce mis servicios](https://www.arepadev.com/servicios/)** · **[Hablemos de tu proyecto](https://www.arepadev.com/contacto/)** · **[LinkedIn](https://www.linkedin.com/in/jorgefprietol/)** · **[Credenciales en Credly](https://www.credly.com/users/jorge-prieto.24ba3e35/badges)**
 
-📫 Puedes contactarme:
-```json
-{
-  "desarrollador": {
-    "lenguajes": "PHP / Java / Python / C#",
-    "telefono": "+593 0994203888",
-    "correo": "jorgefprietol@gmail.com",
-    "linkedinUrl": "https://www.linkedin.com/in/jorgefprietol/"
-  }
-}
+## Cómo puedo aportar a tu equipo
+
+- **Desarrollo de software:** aplicaciones web, APIs, integraciones y servicios backend con Java, C#, PHP y Python.
+- **Arquitectura de soluciones:** diseño y evolución de sistemas, separación de responsabilidades e integración entre aplicaciones.
+- **Datos y automatización:** procesos de información, reportes y reducción de tareas manuales.
+- **Operación y entrega:** contenedores, integración continua y observabilidad para acompañar el ciclo de vida del software.
+
+Me interesa colaborar como **desarrollador senior, arquitecto de software o consultor tecnológico**. Me enfoco en necesidades de empresas y equipos técnicos, incluidos entornos de banca, telecomunicaciones y gobierno.
+
+## Servicios de ArepaDev
+
+| Necesidad de tu negocio | Cómo puedo ayudarte |
+| --- | --- |
+| Presentar tu empresa y facilitar el contacto | [Páginas web, landing pages y sitios corporativos](https://www.arepadev.com/paginas-web/) |
+| Conectar herramientas o construir un sistema propio | [Software a medida, APIs e integraciones](https://www.arepadev.com/software/) |
+| Organizar consultas y dar seguimiento comercial | [Automatización de ventas y seguimiento](https://www.arepadev.com/automatizacion-ventas/) |
+| Reducir trabajo repetitivo con documentos | [Automatización administrativa](https://www.arepadev.com/automatizacion-administrativa/) |
+| Facilitar consultas sobre información de la empresa | [IA privada y RAG documental](https://www.arepadev.com/ia-privada/) · [Asistentes de atención](https://www.arepadev.com/asistentes-ia/) |
+| Entender tus datos y la operación de tus sistemas | [Datos y analítica](https://www.arepadev.com/datos/) · [Observabilidad](https://www.arepadev.com/observabilidad/) |
+| Preparar al equipo para utilizar IA | [Capacitaciones aplicadas](https://www.arepadev.com/capacitaciones/) |
+
+Cada proyecto empieza con una conversación y una propuesta que define entregables, plazo, responsabilidades y coste según el alcance.
+
+## Tecnologías con las que trabajo
+
+| Área | Tecnologías |
+| --- | --- |
+| Backend | Java · Spring Boot · C# · .NET · PHP · Laravel · Python · FastAPI · Flask |
+| Frontend | Angular · React · TypeScript · HTML · CSS |
+| Datos | SQL Server · PostgreSQL · MongoDB · Hive · Delta Lake |
+| Ingeniería de datos | Apache Spark · PySpark · Airflow · Cloudera |
+| DevOps y observabilidad | Docker · Jenkins · GitHub Actions · Instana |
+
+Continúo profundizando en ecosistemas de datos distribuidos, con foco en Spark, Kafka y Airflow.
+
+## Código y productos para explorar
+
+**Ejemplos técnicos públicos**
+
+- [CRUD con Spring Boot, Spring Security y Thymeleaf](https://github.com/jorgefprietol/CRUD-Spring-Boot-Spring-security-Thymeleaf-Bootstrap).
+- Microservicios Java: [productos](https://github.com/jorgefprietol/product-microservicio) y [reservas](https://github.com/jorgefprietol/booking-microservicio).
+- Componentes de arquitectura: [API Gateway](https://github.com/jorgefprietol/api-gateway-spring-cloud-prodbooking), [discovery service](https://github.com/jorgefprietol/discovery-service) y [servidor de configuración](https://github.com/jorgefprietol/config-server-prodbooking).
+
+**Productos de ArepaDev**
+
+- **[ArepaQuiniela](https://www.arepadev.com/quiniela/):** demo interactiva de predicciones, grupos y ranking. Utiliza datos de ejemplo; una versión de producción requiere una implementación adicional.
+- **AlDía:** app Android nativa para organizar tareas, cobros, pagos y seguimientos. Versión de prueba con almacenamiento local y recordatorios; publicación en Google Play en preparación.
+
+## Contacto
+
+¿Necesitas apoyo en tu equipo o quieres desarrollar una solución para tu negocio?
+
+- **Proyectos y propuestas:** [info@arepadev.com](mailto:info@arepadev.com)
+- **WhatsApp de ArepaDev:** [+593 994 203 888](https://wa.me/593994203888)
+- **Perfil profesional:** [Jorge Prieto en LinkedIn](https://www.linkedin.com/in/jorgefprietol/)
+- **Servicios y productos:** [arepadev.com](https://www.arepadev.com/)
+
+Comparte el problema que quieres resolver, las herramientas que utilizas y el resultado que esperas conseguir.
+
+---
+
+**For international teams:** I am a software engineer and solutions architect based in Ecuador, with 20+ years of software development experience. Through ArepaDev, I offer web development, custom software, automation, data solutions and applied AI. Open to remote collaboration — [get in touch](mailto:info@arepadev.com).
