@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/jorge-prieto-arepadev.svg" alt="Jorge Prieto · Arquitectura de Software y Datos · Automatización · ArepaDev" width="100%" />
+  <img src="assets/jorge-prieto-arepadev.svg?v=2" alt="Jorge Prieto · Arquitectura de Software y Datos · Automatización · ArepaDev" width="100%" />
 </p>
 
 # Hola, soy Jorge Prieto
