@@ -1,31 +1,33 @@
 <p align="center">
-  <img src="assets/jorge-prieto-arepadev.svg" alt="Jorge Prieto · Software, arquitectura y automatización · ArepaDev" width="100%" />
+  <img src="assets/jorge-prieto-arepadev.svg" alt="Jorge Prieto · Arquitectura de Software y Datos · Automatización · ArepaDev" width="100%" />
 </p>
 
 # Hola, soy Jorge Prieto
 
-**Ingeniero de Software · Arquitecto de Soluciones · Consultor Tecnológico**  
+**Ingeniero de Software · Arquitecto de Software, Datos y Soluciones · Consultor Tecnológico**  
 Quito, Ecuador · Colaboración remota
 
-Tengo **más de 20 años de experiencia en desarrollo de software**. Trabajo con backend, frontend y arquitectura de soluciones, con un interés especial en integrar sistemas, automatizar procesos y convertir datos en información útil para el negocio.
+Tengo **más de 20 años de experiencia en desarrollo de software**. Trabajo con backend, frontend y arquitectura de software, datos y soluciones. Mi enfoque conecta el diseño de aplicaciones, la integración de sistemas y la organización de los datos para automatizar procesos y convertir información en valor para el negocio.
 
-A través de **[ArepaDev](https://www.arepadev.com/)**, ofrezco desarrollo web, software a medida, automatización e inteligencia artificial aplicada. Mi punto de partida es entender el problema, definir un alcance concreto y construir una solución que se pueda mantener y evolucionar.
+A través de **[ArepaDev](https://www.arepadev.com/)**, ofrezco arquitectura de software y datos, desarrollo web, software a medida, automatización e inteligencia artificial aplicada. Mi punto de partida es entender el problema, definir un alcance concreto y construir una solución que se pueda mantener y evolucionar.
 
 **[Conoce mis servicios](https://www.arepadev.com/servicios/)** · **[Hablemos de tu proyecto](https://www.arepadev.com/contacto/)** · **[LinkedIn](https://www.linkedin.com/in/jorgefprietol/)** · **[Credenciales en Credly](https://www.credly.com/users/jorge-prieto.24ba3e35/badges)**
 
 ## Cómo puedo aportar a tu equipo
 
 - **Desarrollo de software:** aplicaciones web, APIs, integraciones y servicios backend con Java, C#, PHP y Python.
-- **Arquitectura de soluciones:** diseño y evolución de sistemas, separación de responsabilidades e integración entre aplicaciones.
+- **Arquitectura de software y soluciones:** diseño y evolución de sistemas, separación de responsabilidades, APIs, microservicios e integración entre aplicaciones.
+- **Arquitectura de datos:** diseño de modelos y flujos de información, integración de fuentes y organización del almacenamiento para apoyar aplicaciones y analítica.
 - **Datos y automatización:** procesos de información, reportes y reducción de tareas manuales.
 - **Operación y entrega:** contenedores, integración continua y observabilidad para acompañar el ciclo de vida del software.
 
-Me interesa colaborar como **desarrollador senior, arquitecto de software o consultor tecnológico**. Me enfoco en necesidades de empresas y equipos técnicos, incluidos entornos de banca, telecomunicaciones y gobierno.
+Me interesa colaborar como **desarrollador senior, arquitecto de software y datos, arquitecto de soluciones o consultor tecnológico**. Me enfoco en necesidades de empresas y equipos técnicos, incluidos entornos de banca, telecomunicaciones y gobierno.
 
 ## Servicios de ArepaDev
 
 | Necesidad de tu negocio | Cómo puedo ayudarte |
 | --- | --- |
+| Diseñar o evolucionar la estructura de tus aplicaciones y datos | Arquitectura de software y datos: componentes, integraciones, modelos y flujos de información |
 | Presentar tu empresa y facilitar el contacto | [Páginas web, landing pages y sitios corporativos](https://www.arepadev.com/paginas-web/) |
 | Conectar herramientas o construir un sistema propio | [Software a medida, APIs e integraciones](https://www.arepadev.com/software/) |
 | Organizar consultas y dar seguimiento comercial | [Automatización de ventas y seguimiento](https://www.arepadev.com/automatizacion-ventas/) |
@@ -38,11 +40,12 @@ Cada proyecto empieza con una conversación y una propuesta que define entregabl
 
 ## Tecnologías con las que trabajo
 
-| Área | Tecnologías |
+| Área | Tecnologías y componentes |
 | --- | --- |
+| Arquitectura de software | APIs · Microservicios · API Gateway · Discovery service · Configuración centralizada |
 | Backend | Java · Spring Boot · C# · .NET · PHP · Laravel · Python · FastAPI · Flask |
 | Frontend | Angular · React · TypeScript · HTML · CSS |
-| Datos | SQL Server · PostgreSQL · MongoDB · Hive · Delta Lake |
+| Arquitectura y almacenamiento de datos | SQL Server · PostgreSQL · MongoDB · Hive · Delta Lake |
 | Ingeniería de datos | Apache Spark · PySpark · Airflow · Cloudera |
 | DevOps y observabilidad | Docker · Jenkins · GitHub Actions · Instana |
 
@@ -63,7 +66,7 @@ Continúo profundizando en ecosistemas de datos distribuidos, con foco en Spark,
 
 ## Contacto
 
-¿Necesitas apoyo en tu equipo o quieres desarrollar una solución para tu negocio?
+¿Necesitas apoyo en arquitectura de software y datos, reforzar tu equipo o desarrollar una solución para tu negocio?
 
 - **Proyectos y propuestas:** [info@arepadev.com](mailto:info@arepadev.com)
 - **WhatsApp de ArepaDev:** [+593 994 203 888](https://wa.me/593994203888)
@@ -74,4 +77,4 @@ Comparte el problema que quieres resolver, las herramientas que utilizas y el re
 
 ---
 
-**For international teams:** I am a software engineer and solutions architect based in Ecuador, with 20+ years of software development experience. Through ArepaDev, I offer web development, custom software, automation, data solutions and applied AI. Open to remote collaboration — [get in touch](mailto:info@arepadev.com).
+**For international teams:** I am a software engineer and software, data and solutions architect based in Ecuador, with 20+ years of software development experience. Through ArepaDev, I offer software and data architecture, web development, custom software, automation, data solutions and applied AI. Open to remote collaboration — [get in touch](mailto:info@arepadev.com).
