@@ -59,7 +59,7 @@ Estos seis proyectos muestran capacidades distintas mediante código, arquitectu
 
 | Proyecto | Qué demuestra |
 | --- | --- |
-| [Banking Architecture](https://github.com/jorgefprietol/banking-architecture-lab) | Contabilidad de doble partida, PostgreSQL, eventos Kafka, transactional outbox y servicios equivalentes en C# y Java. |
+| [Banking Architecture](https://github.com/jorgefprietol/banking-architecture-lab) | Contabilidad de doble partida en C# y Java; Kafka con outbox y DLQ durables, alertas operativas y pruebas reproducibles de concurrencia y carga. |
 | [Distributed Observability](https://github.com/jorgefprietol/distributed-observability-platform) | Investigación de fallos con OpenTelemetry y Elastic/Kibana; reconciliación durable de operaciones sin repetir efectos. |
 | [Container CI/CD](https://github.com/jorgefprietol/container-cicd-lab) | Construcción, pruebas y análisis de imágenes, SBOM, procedencia firmada y despliegue por digest con rollback. |
 | [Service Request](https://github.com/jorgefprietol/service-request-platform) | Solicitudes con usuarios OIDC, asignación auditada, alertas SLA persistentes e idempotencia en Spring Boot y PostgreSQL. |
