@@ -60,20 +60,20 @@ Estos seis proyectos muestran capacidades distintas mediante código, arquitectu
 | Proyecto | Qué demuestra |
 | --- | --- |
 | [Banking Architecture](https://github.com/jorgefprietol/banking-architecture-lab) | Contabilidad de doble partida, PostgreSQL, eventos Kafka, transactional outbox y servicios equivalentes en C# y Java. |
-| [Distributed Observability](https://github.com/jorgefprietol/distributed-observability-platform) | Investigación de fallos entre microservicios con OpenTelemetry, logs correlacionados y Elastic/Kibana. |
+| [Distributed Observability](https://github.com/jorgefprietol/distributed-observability-platform) | Investigación de fallos con OpenTelemetry y Elastic/Kibana; reconciliación durable de operaciones sin repetir efectos. |
 | [Container CI/CD](https://github.com/jorgefprietol/container-cicd-lab) | Construcción, pruebas y análisis de imágenes, SBOM, procedencia firmada y despliegue por digest con rollback. |
-| [Service Request](https://github.com/jorgefprietol/service-request-platform) | Gestión de solicitudes con Spring Boot, PostgreSQL, SLA, historial, idempotencia y control de concurrencia. |
+| [Service Request](https://github.com/jorgefprietol/service-request-platform) | Solicitudes con usuarios OIDC, asignación auditada, alertas SLA persistentes e idempotencia en Spring Boot y PostgreSQL. |
 | [TrustPass](https://github.com/jorgefprietol/trustpass-platform) | Credenciales digitales RS256, verificación, revocación, rotación de claves y auditoría mediante outbox durable. |
 | [Atlas — System Design](https://github.com/jorgefprietol/system-design-lab) | Decisiones y compromisos de diseño en siete escenarios, con implementaciones en C# y Java y pruebas de comportamiento. |
 
 ### Otros proyectos del portafolio
 
-- [Payment Architecture](https://github.com/jorgefprietol/payment-architecture-platform): patrones de pagos, sagas, idempotencia y paridad de comportamiento entre C# y Java.
-- [Delivery Assurance](https://github.com/jorgefprietol/delivery-assurance-platform): requisitos, riesgos, criterios de aceptación y evidencias para verificar entregas.
-- [Delivery Operations](https://github.com/jorgefprietol/delivery-operations-platform): registro y aprobación de versiones, evidencias de CI y seguimiento de despliegues y rollback.
-- [InvoiceOps](https://github.com/jorgefprietol/invoiceops-platform): facturación y cobros con reglas de negocio y trazabilidad operativa.
-- [Sentinel Procurement](https://github.com/jorgefprietol/sentinel-procurement-platform): compras y aprobaciones con aislamiento entre organizaciones y controles de seguridad de APIs.
-- [Enterprise Architecture Hub](https://github.com/jorgefprietol/enterprise-architecture-hub): capacidades, madurez, iniciativas y prioridades para planificar la evolución tecnológica.
+- [Payment Architecture](https://github.com/jorgefprietol/payment-architecture-platform): sagas durables por HTTP, compensación y recuperación tras reinicios con paridad entre C# y Java.
+- [Delivery Assurance](https://github.com/jorgefprietol/delivery-assurance-platform): requisitos, riesgos y evidencias por commit, con roles separados para implementar y aprobar.
+- [Delivery Operations](https://github.com/jorgefprietol/delivery-operations-platform): aprobación basada en CI y procedencia firmada, con seguimiento de despliegues y rollback.
+- [InvoiceOps](https://github.com/jorgefprietol/invoiceops-platform): facturación y cobros con permisos por rol, paginación y exportación PDF.
+- [Sentinel Procurement](https://github.com/jorgefprietol/sentinel-procurement-platform): compras y aprobaciones con aislamiento entre organizaciones y auditoría protegida contra modificaciones.
+- [Enterprise Architecture Hub](https://github.com/jorgefprietol/enterprise-architecture-hub): capacidades y prioridades explicables, migraciones y catálogo con control de concurrencia.
 - [SOLID y Clean Code](https://github.com/jorgefprietol/solid-clean-code-lab): dominio de pedidos, refactorización y contratos de adaptadores en TypeScript, con CI en Windows y Linux.
 
 **Ejemplos técnicos públicos**
