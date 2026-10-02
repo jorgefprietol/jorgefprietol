@@ -64,7 +64,7 @@ Estos seis proyectos muestran capacidades distintas mediante código, arquitectu
 | [Container CI/CD](https://github.com/jorgefprietol/container-cicd-lab) | Construcción, pruebas y análisis de imágenes, SBOM, procedencia firmada y despliegue por digest con rollback. |
 | [Service Request](https://github.com/jorgefprietol/service-request-platform) | Solicitudes con usuarios OIDC, asignación auditada, alertas SLA persistentes e idempotencia en Spring Boot y PostgreSQL. |
 | [TrustPass](https://github.com/jorgefprietol/trustpass-platform) | Credenciales digitales RS256, verificación, revocación, rotación de claves y auditoría mediante outbox durable. |
-| [Atlas — System Design](https://github.com/jorgefprietol/system-design-lab) | Decisiones y compromisos de diseño en siete escenarios, con implementaciones en C# y Java y pruebas de comportamiento. |
+| [Atlas — System Design](https://github.com/jorgefprietol/system-design-lab) | Siete escenarios de diseño en C# y Java; comercio con PostgreSQL compartido y pruebas de concurrencia entre instancias. |
 
 ### Otros proyectos del portafolio
 
